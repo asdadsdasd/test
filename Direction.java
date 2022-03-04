@@ -78,7 +78,7 @@ public class Direction {
     public boolean isOpposite(Direction other) {
         return this.opposite().equals(other);
     }
-
+	//My fourth comment
     // --------------------------------------------------
     @Override
     public int hashCode() {
