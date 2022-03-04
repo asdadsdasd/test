@@ -25,6 +25,7 @@ public class CellPosition {
         _row = row;
         _column = col;
     }
+	// пока
 
     // ------------------ "Соседние" позиции ----------------
     public CellPosition shift(int row_delta, int col_delta) {
@@ -58,6 +59,7 @@ public class CellPosition {
 
         return shift(row_delta, col_delta);
     }
+	///asdasddasdasasd
 
     // ------------------ Сравнение позиций ----------------
     @Override
