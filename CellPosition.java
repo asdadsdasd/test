@@ -59,6 +59,7 @@ public class CellPosition {
 
         return shift(row_delta, col_delta);
     }
+	///asdasddasdasasd
 
     // ------------------ Сравнение позиций ----------------
     @Override
