@@ -2,7 +2,7 @@ package Model.gamefield;
 
 // Направление  - "север/юг/запад/восток"
 public class Direction {
-
+	//My first comment
     // ----------------------- Свойства --------------------------
 
     // определяем направление в часах (0 до 12)
@@ -18,7 +18,7 @@ public class Direction {
     }
 
     // ----------------------- Порождение --------------------------
-
+	//My second comment
     public static Direction north() {
         return new Direction(0);
     }
